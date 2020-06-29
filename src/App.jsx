@@ -20,7 +20,8 @@ class App extends Component {
          name="height"
          id="height"
         />
-        <button>Calculate BMI</button>
+        <button id="calculate">Calculate BMI</button>
+
         </form>
     );
   }
